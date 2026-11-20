@@ -1,0 +1,10 @@
+Business Travel Policy
+Department: Finance
+Year: 2025
+
+1. Business travel requires manager approval.
+2. Employees must book approved travel arrangements.
+3. Economy class is the standard flight booking category.
+4. Employees must submit travel expense claims within 7 days after returning.
+5. Original receipts are required for reimbursement.
+6. Expenses outside company limits require additional approval.

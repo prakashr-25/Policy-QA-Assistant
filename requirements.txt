@@ -1,0 +1,16 @@
+sentence-transformers
+chromadb
+openai
+python-dotenv
+pypdf
+tiktoken
+rank_bm25
+fastapi
+uvicorn
+pydantic
+ragas
+langchain-openai
+pytest
+pytest-cov
+httpx
+numpy

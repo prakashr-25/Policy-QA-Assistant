@@ -1,0 +1,15 @@
+{"question": "How many casual leave days do employees receive per year?", "faithfulness": 1.0, "answer_relevancy": 0.9712941211750048, "context_precision": 0.49999999995, "context_recall": 1.0}
+{"question": "How many annual leave days are provided to employees?", "faithfulness": 1.0, "answer_relevancy": 0.9538122801674103, "context_precision": 0.9999999999, "context_recall": 1.0}
+{"question": "What time does the working day start?", "faithfulness": 1.0, "answer_relevancy": 0.7917970770328159, "context_precision": 0.9999999999, "context_recall": 1.0}
+{"question": "What time does the working day end?", "faithfulness": 1.0, "answer_relevancy": 0.9409517917363768, "context_precision": 0.9999999999, "context_recall": 1.0}
+{"question": "How many days per week can employees work from home?", "faithfulness": 1.0, "answer_relevancy": 0.9611157159829993, "context_precision": 0.9999999999, "context_recall": 1.0}
+{"question": "When is the monthly salary paid?", "faithfulness": 1.0, "answer_relevancy": 0.8497767247852914, "context_precision": 0.9999999999, "context_recall": 1.0}
+{"question": "How many public holidays are provided to employees?", "faithfulness": 1.0, "answer_relevancy": 0.9046163860356453, "context_precision": 0.3333333333, "context_recall": 1.0}
+{"question": "What is the annual casual leave entitlement?", "faithfulness": 1.0, "answer_relevancy": 0.7316034169261161, "context_precision": 0.9999999999, "context_recall": 1.0}
+{"question": "What are the normal working hours, and how many days can employees work remotely each week?", "faithfulness": 1.0, "answer_relevancy": 0.6878897846653831, "context_precision": 0.9999999999, "context_recall": 1.0}
+{"question": "How many casual and annual leave days do employees receive in total each year?", "faithfulness": 0.6666666666666666, "answer_relevancy": 0.8688061310368981, "context_precision": 0.49999999995, "context_recall": 1.0}
+{"question": "When is salary paid, and what are the normal working hours?", "faithfulness": 1.0, "answer_relevancy": 0.9629468403847405, "context_precision": 0.0, "context_recall": 1.0}
+{"question": "How many public holidays and annual leave days are provided each year?", "faithfulness": 1.0, "answer_relevancy": 0.9124297168064451, "context_precision": 0.0, "context_recall": 1.0}
+{"question": "What was the company's total revenue in the last financial year?", "faithfulness": 1.0, "answer_relevancy": 0.0, "context_precision": 0.0, "context_recall": 1.0}
+{"question": "Who won the most recent FIFA World Cup?", "faithfulness": 0.0, "answer_relevancy": 0.0, "context_precision": 0.0, "context_recall": 1.0}
+{"question": "What is the current market price of the company's stock?", "faithfulness": 0.0, "answer_relevancy": 0.0, "context_precision": 0.0, "context_recall": 1.0}

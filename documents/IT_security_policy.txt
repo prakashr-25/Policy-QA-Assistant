@@ -1,0 +1,11 @@
+IT Security Policy
+Department: IT
+Year: 2025
+
+1. Employees must use strong passwords.
+2. Passwords must never be shared with other employees.
+3. Multi-factor authentication must be enabled.
+4. Suspicious emails must be reported to the IT department.
+5. Employees must not install unauthorized software.
+6. Company data must only be stored in approved systems.
+7. Lost or stolen company devices must be reported immediately.

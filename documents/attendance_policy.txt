@@ -1,0 +1,10 @@
+Company Attendance Policy
+Department: HR
+Year: 2025
+
+1. Standard working hours are 9:00 AM to 6:00 PM.
+2. Employees must work 8 hours per day.
+3. Employees can take a 1-hour lunch break.
+4. Employees must record attendance using the company attendance system.
+5. Employees arriving more than 15 minutes late must inform their manager.
+6. Repeated late arrivals may result in disciplinary action.

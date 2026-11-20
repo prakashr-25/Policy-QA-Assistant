@@ -1,0 +1,7 @@
+Company Leave Policy
+Department: HR
+Year: 2023
+
+1. Employees receive 15 annual leave days per year.
+2. Employees receive 8 casual leave days per year.
+3. Employees receive 7 sick leave days per year.

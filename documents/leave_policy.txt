@@ -1,0 +1,11 @@
+Company Leave Policy
+Department: HR
+Year: 2025
+
+1. Employees receive 20 annual leave days per year.
+2. Employees receive 12 casual leave days per year.
+3. Employees receive 10 sick leave days per year.
+4. Casual leave requires approval from the reporting manager.
+5. Annual leave requests should be submitted at least 5 working days in advance.
+6. Unused annual leave can be carried forward up to 5 days.
+7. Leave requests must be submitted through the HR portal.

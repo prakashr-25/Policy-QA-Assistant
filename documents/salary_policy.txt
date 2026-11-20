@@ -1,0 +1,9 @@
+Salary Policy
+Department: Finance
+Year: 2025
+
+1. Salaries are paid on the last working day of each month.
+2. Salary payments are transferred directly to employee bank accounts.
+3. Salary deductions follow applicable tax and legal requirements.
+4. Employees can download salary slips from the HR portal.
+5. Salary-related questions should be directed to the Finance department.

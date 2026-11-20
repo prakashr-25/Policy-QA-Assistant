@@ -1,0 +1,15 @@
+{"question":"How many casual leave days do employees receive per year?","answer":"Employees receive 12 casual leave days per year.","source":"leave_policy.txt","page":null,"category":"simple"}
+{"question":"How many annual leave days are provided to employees?","answer":"Employees receive 20 annual leave days per year.","source":"leave_policy.txt","page":null,"category":"simple"}
+{"question":"What time does the working day start?","answer":"The working day starts at 9:00 AM.","source":"attendance_policy.txt","page":null,"category":"simple"}
+{"question":"What time does the working day end?","answer":"The working day ends at 6:00 PM.","source":"attendance_policy.txt","page":null,"category":"simple"}
+{"question":"How many days per week can employees work from home?","answer":"Employees can work from home two days per week.","source":"work_from_home.txt","page":null,"category":"simple"}
+{"question":"When is the monthly salary paid?","answer":"Monthly salary is paid on the last working day of the month.","source":"salary_policy.txt","page":null,"category":"simple"}
+{"question":"How many public holidays are provided to employees?","answer":"Employees receive 12 public holidays.","source":"leave_policy.txt","page":null,"category":"simple"}
+{"question":"What is the annual casual leave entitlement?","answer":"The annual casual leave entitlement is 12 days.","source":"leave_policy.txt","page":null,"category":"simple"}
+{"question":"What are the normal working hours, and how many days can employees work remotely each week?","answer":"Normal working hours are 9:00 AM to 6:00 PM. Employees can work from home two days per week.","source":"attendance_policy.txt; work_from_home.txt","page":null,"category":"multi_chunk"}
+{"question":"How many casual and annual leave days do employees receive in total each year?","answer":"Employees receive 12 casual leave days and 20 annual leave days, for a total of 32 days.","source":"leave_policy.txt","page":null,"category":"multi_chunk"}
+{"question":"When is salary paid, and what are the normal working hours?","answer":"Salary is paid on the last working day of the month. Normal working hours are 9:00 AM to 6:00 PM.","source":"salary_policy.txt; attendance_policy.txt","page":null,"category":"multi_chunk"}
+{"question":"How many public holidays and annual leave days are provided each year?","answer":"Employees receive 12 public holidays and 20 annual leave days each year.","source":"leave_policy.txt","page":null,"category":"multi_chunk"}
+{"question":"What was the company's total revenue in the last financial year?","answer":"I don't have information on that.","source":null,"page":null,"category":"unanswerable"}
+{"question":"Who won the most recent FIFA World Cup?","answer":"I don't have information on that.","source":null,"page":null,"category":"unanswerable"}
+{"question":"What is the current market price of the company's stock?","answer":"I don't have information on that.","source":null,"page":null,"category":"unanswerable"}
